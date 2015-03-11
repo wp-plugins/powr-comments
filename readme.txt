@@ -22,7 +22,6 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-comments-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Receive and display unlimited visitor comments.
 * Option to limit length of comments.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 * Manual Approval - Manually screen and approve new comments before they post.
 * Advanced Sorting Options - sort by date, popularity, or manually organize yourself.
 * Anonymous Comments - allow visitors to post comments anonymously.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Comments.
