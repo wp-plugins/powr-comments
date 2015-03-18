@@ -40,6 +40,7 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Comments.
 <br>
