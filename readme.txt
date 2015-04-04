@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Collect and display visitor comments in a custom feed.
 
 == Description ==
-Collect and display visitor comments in a custom feed.
+ Collect and display visitor comments in a custom feed.
 <br>
 <br>
 POWr Comments is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
