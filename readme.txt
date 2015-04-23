@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Comments, comments feed, comments section, user comments, customer comments, social comments, user reviews, news, local news, user support, discussion forum, forum, help, product reviews, vote, engagement, share, post, repost, reply, review, discussion, html comments, online comments, comments plugin, comments app, comments widget, spam protection, responsive, responsive design, mobile, personalize, customize, optimize, custom, sidebar, drag and drop, WYSIWYG, POWr Comments
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 * Built-in support displays text in any language.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Manual Approval - Manually screen and approve new comments before they post.
