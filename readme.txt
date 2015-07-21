@@ -9,10 +9,10 @@ Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Collect and display visitor comments in a custom feed.
+Collect and display visitor comments in a custom feed!
 
 == Description ==
- Collect and display visitor comments in a custom feed.
+[youtube https://www.youtube.com/watch?v=OdUHShj0NpA] Collect and display visitor comments in a custom feed!
 <br>
 <br>
 POWr Comments is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -25,6 +25,7 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 = Free Features =
 * Receive and display unlimited visitor comments.
 * Option to limit length of comments.
+* Collect and display ratings on 5-star scale.
 * Allow users to vote on favorite posts.
 * Custom colors, fonts, borders and backgrounds.
 * Built-in support displays text in any language.
@@ -33,9 +34,9 @@ First, download, install, and activate POWr Comments. Then drop the widget anywh
 
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Manual Approval - Manually screen and approve new comments before they post.
-* Advanced Sorting Options - sort by date, popularity, or manually organize yourself.
-* Anonymous Comments - allow visitors to post comments anonymously.
+* Screen and approve new comments before posting
+* Sort by date, popularity, or manually organize yourself
+* Allow anonymous posts from visitors
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
